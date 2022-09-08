@@ -1,1 +1,4 @@
-This is me
+layout: page
+title: About
+
+This is my page
